@@ -4,4 +4,10 @@ Project pertama boncu.
 
 ## Deskripsi
 
-(Tulis deskripsi project di sini.)
+Project tentang generate AI video — membuat video otomatis dengan bantuan kecerdasan buatan.
+
+## Rencana
+
+- Riset model/tool AI video generator
+- Prototype alur generate video
+- Dokumentasi cara pakai
